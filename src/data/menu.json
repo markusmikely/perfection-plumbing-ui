@@ -1,0 +1,38 @@
+{
+  "main": [
+    {
+      "to": "/about",
+      "label": "About"
+    },
+    {
+      "to": "/services",
+      "label": "Services"
+    },
+    {
+      "to": "/testimonials",
+      "label": "Testimonials"
+    },
+    {
+      "to": "/contact",
+      "label": "Contact"
+    }
+  ],
+  "top": [
+    {
+      "icon": "phone",
+      "label": "Call Us Today",
+      "to": "tel:+447497125204",
+      "text": "07497 125 204"
+    },
+    {
+      "icon": "clock",
+      "label": "Work Time",
+      "text": "08:00 - 18:30"
+    },
+    {
+      "icon": "location",
+      "label": "Coverage",
+      "text": "London"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Yellow Pages",
+    "logo": "yell",
+    "link": "https://www.yell.com/"
+  },
+  {
+    "name": "My Builder",
+    "logo": "mybuilder",
+    "link": "https://www.mybuilder.com/"
+  },
+  {
+    "name": "Gumtree",
+    "logo": "gumtree",
+    "link": "https://www.gumtree.com/"
+  },
+  {
+    "name": "Check A Trade",
+    "logo": "checkatrade",
+    "link": "https://www.checkatrade.com/"
+  }
+]

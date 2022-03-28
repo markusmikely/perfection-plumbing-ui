@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "plumber",
+    "title": "Expert Plumbers",
+    "text": "Plumbers & engineers covering all aspects of plumbing & heating"
+  },
+  {
+    "icon": "star",
+    "title": "Great Reviews",
+    "text": "We have a great customer return rate and we constantly strive to increase this."
+  },
+  {
+    "icon": "location",
+    "title": "Local Services",
+    "text": "Our plumbers work across London to ensure we can offer local plumbing services"
+  },
+  {
+    "icon": "accredited",
+    "title": "Accredited",
+    "text": "Engineers and plumbers are fully qualified, registered and experienced."
+  }
+]

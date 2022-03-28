@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Plumbing & Heating",
+        "description": "Our company carries out installation, service and repair of water and gas appliances",
+        "long_description": "<p>Are you looking for boiler maintenance or a new boiler? Great, we are experts in the field. We replace boilers, fix boilers and service boilers. Did we say boilers? It’s simple, anything boiler related, we’re here to help you out.</p><p>To make it even sweeter, we are fully accredited by the worlds leading boiler manufacturers. We give the longest guarantee on Worcester boilers and products, up to 12 years depending on the product.</p><p>Get your boiler quote here or leave us your number and we will give you a call.</p>",
+        "image": "plumbing"
+    },
+    {
+        "title": "Boiler Repair & Installations",
+        "description": "Our team uses only the best and particularly low-noise drive components",
+        "long_description":"<p>Our services are cost effective, reliable and 100% guaranteed for quality, so you can have full peace of mind that you’re working with one of the most trusted boiler installation and repair specialists in the local area. We understand that a properly working boiler is essential to your home and go out of our way to ensure boiler maintenance and repairs are conducted quickly and without delay so you can get back to normal as soon as possible. We work with all brands of boilers and provide a transparent service, sharing any issues we may detect with you so you can ensure your boiler is maintained correctly to ensure the longevity of your system. Our team can arrange gas certificates for your gas installation upon request.</p>",
+        "image": "boiler"
+    },
+    {
+        "title": "Bathroom Installations",
+        "description": "We offer a wide range of high quality water heaters and conditioning supplies",
+        "long_description": "<p>With our diverse range of bathroom installation services, you may rest assured that before long, your bathroom will be the haven you want it to be. From the initial consultation to removing your old bathroom suite to fitting and tiling a new one. You can rely on Perfection Plumbing for all of your bathroom installation needs.</p><p>At Perfection Plumbing, no emergency plumbing, heating repair or bathroom installation job is too big or too small, so you know exactly who to contact 24 hours a day, 7 days a week. Our friendly team of plumbers and bathroom installers cover all London areas, providing professional services at competitive prices. We also always go that extra mile to make sure your new bathroom puts a smile on your face. All of our professional plumbers are certified and licensed to tackle any plumbing job, so do not hesitate to call us.</p>",
+        "image": "bathroom"
+    },
+    {
+        "title": "Air Conditioning",
+        "description": "Our company offers the most efficient and the greenest options for home heating.",
+        "long_description": "<p>Our service level agreements for your air conditioning equipment cover the smallest of systems to the very largest, and we utilise our own engineers to provide air conditioning maintenance in London 24/7, 365 days a year.</p><p>Our qualified and experienced team are here to keep your London air conditioning service running smoothly, and we're available whenever you need us.</p>",
+        "image": "air-con"
+    }
+]

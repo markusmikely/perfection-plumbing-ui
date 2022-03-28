@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Facebook",
+    "icon": "facebook",
+    "link": "https://www.facebook.com/perfection-plumbing-ltd"
+  },
+  {
+    "name": "Instagram",
+    "icon": "instagram",
+    "link": "https://www.instagram.com/perfection-plumbing-ltd"
+  },
+  {
+    "name": "LinkedInn",
+    "icon": "linkedinn",
+    "link": "https://www.linkedin.com/perfection-plumbing-ltd"
+  },
+  {
+    "name": "Twitter",
+    "icon": "twitter",
+    "link": "https://twitter.com/perfection-plumbing-ltd"
+  }
+]
